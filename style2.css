@@ -1,0 +1,31 @@
+body {
+    font-family: Actor;
+    font-size: 20px;
+    margin: 0;
+    text-align: center;
+    background: #CCFFFF;
+    margin-left: 80px;
+}
+
+ .castle{
+    height: 300px;
+    width: 500px;
+    margin-right: 20px;
+
+}
+
+.w3c{
+    height: 300px;
+    width: 500px;
+}
+
+.link{
+    text-align: left;
+    font-size: 120%;
+}
+
+.src{
+    font-size: 30px;
+    font-style: bold;
+    
+}
